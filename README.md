@@ -76,7 +76,7 @@ License
 This project is licensed under the MIT License.
 
 Author
-Your Name (Ayush)
+Ayush
 Technologies Used
 Python
 Scikit-learn
