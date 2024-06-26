@@ -78,6 +78,15 @@ Contributions are welcome! Please follow these steps to contribute:
     ```
 6. Create a pull request.
 
+
+## This project contains EDA steps like below...
+ - dataset from kaggle
+ - EDA
+ - pre-processing
+ - model fitting
+ - model evaluation
+ - hyper-parameter tuning
+
 ## License
 This project is licensed under the MIT License.
 
